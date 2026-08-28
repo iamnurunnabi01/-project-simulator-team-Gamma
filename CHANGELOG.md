@@ -22,3 +22,6 @@
 
 ## Version 1.2
 - Added address field to Student structure.
+
+## Version 1.3
+- Added gender field to Student structure.
