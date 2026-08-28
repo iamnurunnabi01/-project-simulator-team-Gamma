@@ -20,3 +20,6 @@
 
 \- Added phone number field to Student structure.
 
+## Version 1.6
+
+- Added address field to Student structure.
