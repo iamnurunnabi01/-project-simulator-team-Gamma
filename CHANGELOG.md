@@ -34,3 +34,8 @@
 
 ## Version 1.6
 - Added status field to Student structure.
+
+
+##Version Kayes.1
+
+- Increased student name capacity from 50 to 100 characters.

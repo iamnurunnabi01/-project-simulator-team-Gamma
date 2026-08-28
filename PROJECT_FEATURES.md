@@ -34,3 +34,6 @@ The system now stores the credit hours of every student.
 
 ## Student Status
 The system now stores the status of every student.
+
+#Kayes's Tasks
+- Student name supports up to 100 characters.
