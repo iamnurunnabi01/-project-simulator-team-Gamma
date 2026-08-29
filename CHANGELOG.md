@@ -40,3 +40,6 @@
 
 ## Version 1.4
 - Increased student address capacity from 100 to 200 characters.
+
+## Version 1.5
+- Increased student phone number capacity from 20 to 25 characters.

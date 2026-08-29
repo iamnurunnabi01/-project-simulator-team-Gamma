@@ -40,3 +40,6 @@ The system now supports student names up to 100 characters.
 
 ## Improved Address Capacity
 The system now supports student addresses up to 200 characters.
+
+## Improved Phone Number Capacity
+The system now supports phone numbers up to 25 characters.
