@@ -37,3 +37,6 @@
 
 ## Version 1.3
 - Increased student name capacity from 50 to 100 characters.
+
+## Version 1.4
+- Increased student address capacity from 100 to 200 characters.
