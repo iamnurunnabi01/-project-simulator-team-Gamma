@@ -34,3 +34,6 @@
 
 ## Version 1.6
 - Added status field to Student structure.
+
+## Version 1.3
+- Increased student name capacity from 50 to 100 characters.
