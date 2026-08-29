@@ -46,3 +46,6 @@
 
 ## Version 1.6
 - Renamed the Student ID field from `id` to `studentId`.
+
+## Version 1.2
+- Renamed the Student name field from `name` to `studentName`.

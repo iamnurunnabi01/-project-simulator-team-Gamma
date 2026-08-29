@@ -46,3 +46,6 @@ The system now supports phone numbers up to 25 characters.
 
 ## Student ID Field
 The Student structure now uses `studentId` as the student identification field.
+
+## Student Name Field
+The Student structure now uses `studentName` as the field name for student names.
