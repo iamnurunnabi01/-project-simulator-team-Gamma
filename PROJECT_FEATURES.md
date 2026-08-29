@@ -43,3 +43,6 @@ The system now supports student addresses up to 200 characters.
 
 ## Improved Phone Number Capacity
 The system now supports phone numbers up to 25 characters.
+
+## Student ID Field
+The Student structure now uses `studentId` as the student identification field.

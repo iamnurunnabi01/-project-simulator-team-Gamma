@@ -43,3 +43,6 @@
 
 ## Version 1.5
 - Increased student phone number capacity from 20 to 25 characters.
+
+## Version 1.6
+- Renamed the Student ID field from `id` to `studentId`.
