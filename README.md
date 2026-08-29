@@ -11,7 +11,7 @@ Student Management System is a simple project used to practice Git workflow mana
 
 ## Team Members
 
-- Your Name
-- Member 2 Name
-- Member 3 Name
-- Member 4 Name
+- MD. Al Kayes
+- Navid Rahman
+- A. M. NURUNNABI AZAD
+- MD. Rohan Hossain Chowdhury
