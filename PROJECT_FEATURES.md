@@ -37,3 +37,6 @@ The system now stores the status of every student.
 
 ## Improved Student Name Capacity
 The system now supports student names up to 100 characters.
+
+## Improved Address Capacity
+The system now supports student addresses up to 200 characters.
